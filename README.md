@@ -1,4 +1,7 @@
 # LegendKeeperDL
+
+> It's ugly, badly coded, and a disgrace to look at... but it get the job done
+
 Just a tool do dl your uploaded LK pictures
 
 1. Install Node.js with npm on your computer
